@@ -1,7 +1,7 @@
 
 export default function Footer() {
   return (
-    <footer className="footer p-10 bg-base-200 text-base-content">
+    <footer className="footer py-10 px-28 bg-base-200 text-base-content">
       <div>
         <h1 className="font-bold text-2xl">Batteries</h1>
       </div>
